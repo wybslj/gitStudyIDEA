@@ -10,5 +10,6 @@ public class GitStudy {
 		System.out.println("hello,master");
 		System.out.println("hello,hot_fix");
 		System.out.println("hello,github");
+		System.out.println("hello,github modified");
 	}
 }
