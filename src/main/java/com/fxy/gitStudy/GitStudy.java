@@ -1,0 +1,8 @@
+package com.fxy.gitStudy;
+
+public class GitStudy {
+
+	public static void main(String[] args) {
+		System.out.println("hello,git");
+	}
+}
